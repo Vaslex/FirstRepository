@@ -1,0 +1,10 @@
+# ninja log v5
+15	882	7025847673582209	inoutlib/CMakeFiles/inoutlib.dir/src/read.cpp.obj	dc35dc095d27cdbc
+1117	1220	7026369729178621	a/inoutlib.lib	149142a438a12a12
+1	479	7026374015763604	CMakeFiles/CMakeProject2.dir/main.cpp.obj	e40fc8708d5ca46a
+0	134	7030142038245343	build.ninja	c971dde885b2efdf
+6	841	7025847673153361	inoutlib/CMakeFiles/inoutlib.dir/src/print.cpp.obj	4feff18a1f310551
+7	104	7025849967078896	inoutlib/inoutlib.lib	7290361dac1f77f3
+1	1086	7026369727851972	a/CMakeFiles/inoutlib.dir/src/print.cpp.obj	c510181003c07722
+8	1117	7026369728181137	a/CMakeFiles/inoutlib.dir/src/read.cpp.obj	221eb2b3a67e9348
+479	672	7026374017259751	CMakeProject2.exe	33c4239760bafe51
